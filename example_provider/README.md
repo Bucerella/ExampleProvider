@@ -14,3 +14,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+<table>
+  <tr>
+  <td> 
+<img src = "https://github.com/Bucerella/ExampleProvider/blob/master/example_provider/s1.png" width = 400>
+  </td>
+     <td> 
+<img src = "https://github.com/Bucerella/ExampleProvider/blob/master/example_provider/s2.png" width = 400>
+  </td>
+     <td> 
+<img src = "https://github.com/Bucerella/ExampleProvider/blob/master/example_provider/s3.png" width = 400>
+  </td>
+  </tr>
+</table>
