@@ -10,12 +10,6 @@ List<UserModel> usersListFromJson(String str) {
   return userList;
 }
 
-// List<UserModel> usersListFromJson(String str) {
-//   final jsonData = jsonDecode(str) as List<dynamic>;
-//   final userList = List<UserModel>.from(jsonData.map<UserModel>((user as Map<String, dynamic>) => UserModel.fromJson(user)));
-//   return userList;
-// }
-
 String usersListToJson(List<UserModel> data) {
   return jsonEncode(
       List<dynamic>.from(data.map<Map<String, dynamic>>((x) => x.toJson())));
